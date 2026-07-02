@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "240179671172",
+    "project_id": "sonic-testing-projects",
+    "storage_bucket": "sonic-testing-projects.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240179671172:android:33bd251003826c27b8d2d1",
+        "android_client_info": {
+          "package_name": "com.orbitalsonic.admobadsconfigurations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnIUlpYv2Bo_GC29FxLpES2vhzMz4XPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240179671172:android:a95b4c246964c0c6b8d2d1",
+        "android_client_info": {
+          "package_name": "com.orbitalsonic.navigationsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnIUlpYv2Bo_GC29FxLpES2vhzMz4XPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240179671172:android:930bb6c6bef787fbb8d2d1",
+        "android_client_info": {
+          "package_name": "com.orbitalsonic.defaultbrowsercheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnIUlpYv2Bo_GC29FxLpES2vhzMz4XPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240179671172:android:d0ffc48a9f566eafb8d2d1",
+        "android_client_info": {
+          "package_name": "com.orbitalsonic.navigationsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnIUlpYv2Bo_GC29FxLpES2vhzMz4XPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240179671172:android:b2a679b3d642042cb8d2d1",
+        "android_client_info": {
+          "package_name": "com.orbitalsonic.videoplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnIUlpYv2Bo_GC29FxLpES2vhzMz4XPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

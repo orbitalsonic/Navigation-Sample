@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Navigation Sample</string>
+
+    <!--    Settings-->
+    <string name="app_language">App Language</string>
+    <string name="rate_on_play_store">Rate on Play Store</string>
+    <string name="share_app_with_friends">Share app with friends</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="report_bugs_issues"><![CDATA[Report bugs & issues]]></string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="app_version">App Version</string>
+    <string name="settings">Settings</string>
+
+    <!--    Settings Layout-->
+    <string name="share_app">Share App</string>
+    <string name="rate_us">Rate us</string>
+    <string name="terms_condition"><![CDATA[Terms & Conditions]]></string>
+    <string name="feedback_suggestion"><![CDATA[Feedback & Suggestion]]></string>
+    <string name="item_dark_mode">Dark Mode</string>
+    <string name="item_light_mode">Light Mode</string>
+    <string name="select_content_language">Select Content Language</string>
+    <string name="language">Language</string>
+    <string name="select_your_language">Select Your Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="search_language">Search language</string>
+    <string name="nothing_found">Nothing Found!</string>
+    <string name="apply">Apply</string>
+    <string name="dark_mode_text">Dark Mode</string>
+    <string name="next">Next</string>
+
+</resources>
